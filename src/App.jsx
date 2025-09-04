@@ -1,6 +1,8 @@
+import CalcularFrete from "./components/CalcularFrete";
+
 function App() {
   return (
-    <h1>Oi</h1>
+    <CalcularFrete/>
   )
 }
 
